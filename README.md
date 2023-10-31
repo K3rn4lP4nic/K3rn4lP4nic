@@ -5,7 +5,7 @@ At this moment, I am employed as a cybersecurity analyst.
 Rewatching Mr. Robot for the fourth time.  
 Playing Counter-Strike whenever I feel bored because I love playing it. 
 
-<a href="#"><img align="right" src="https://tenor.com/view/dance-hacker-dance-hacker-meme-hacker-animation-hacker-gif-22708619.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://tenor.com/view/dance-hacker-dance-hacker-meme-hacker-animation-hacker-gif-22708619.gif" width="100 " height="100" /></a>
 
 ## 👨‍💻 About Me
 <li>💻 Passionate about cybersecurity and countering digital threats </li>
