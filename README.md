@@ -12,7 +12,7 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 <li>🌐 Have a strong interest in web application penetration testing</li>
 <li>📚 Eager to continually expand my knowledge in the field of cybersecurity</li>
 <li>🔒 Committed to mastering new techniques and tools in cybersecurity</li>
-<li>🤖 Enjoy participating in Capture The Flag (CTF) competitions&zwnj;and attending security conferences</li>
+<li>🤖 Enjoy participating in Capture The Flag (CTF) competitions &zwnj;and attending security conferences</li>
 <li>🎮 A huge fan of video games would like to participate in competitions</li>
 
 ## 💻 Languages, tools and platforms:
