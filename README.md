@@ -12,7 +12,7 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 <li>🌐 Have a strong interest in web application penetration testing</li>
 <li>📚 Eager to continually expand my knowledge in the field of cybersecurity</li>
 <li>🔒 Committed to mastering new techniques and tools in cybersecurity</li>
-<li>🤖 Enjoy participating in Capture The Flag (CTF) competitions and attending security conferences</li>
+<li>🤖 Enjoy participating in Capture The Flag (CTF) competitions. and attending security conferences</li>
 <li>🎮 A huge fan of video games would like to participate in competitions</li>
 
 ## 💻 Languages, tools and platforms:
@@ -40,7 +40,8 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 
 <details>
   <summary><h2>Respect++ </h2></summary>
-  Cybersecurity is like a rollercoaster ride – every day is a new adventure! 😎 I seriously can't get enough of this stuff. It's like a puzzle that keeps changing, and I love solving it. In this digital age, I'm just so stoked to be doing what I do. Learning new things, finding those vulnerabilities, and safeguarding our digital environment – it's like being a digital superhero. 💻🦸‍♂️ And let's be honest, the adrenaline rush when you thwart a cyberattack? That feeling is priceless! 👊💥💪 So yeah, cybersecurity rocks my world! 🌐🔒💙  <br />
+  Cybersecurity is like a rollercoaster ride – every day is a new adventure! 😎 I seriously can't get enough of this stuff. It's like a puzzle that keeps changing, and I love solving it. In this digital age, I'm just so stoked to be doing what I do. Learning new things, finding those vulnerabilities, and safeguarding our digital environment – it's like being a digital superhero. 💻🦸‍♂️ And let's be honest, the adrenaline rush when you thwart a cyberattack? That feeling is priceless! 👊💥💪 So yeah, cybersecurity rocks my world! 🌐🔒💙
+  <br>
      <p align="center">
     <img width="500" height="300" src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif" alt="Material Bread logo">
 </p>
