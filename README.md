@@ -5,7 +5,7 @@ At this moment, I am employed as a cybersecurity analyst.
 Rewatching Mr. Robot for the fourth time.  
 Playing Counter-Strike whenever I feel bored because I love playing it. 
 
-<a href="#"><img align="right" src="https://github.com/K3rn4lP4nic/K3rn4lP4nic/blob/main/Images/dance-hacker-dance.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://github.com/K3rn4lP4nic/K3rn4lP4nic/blob/main/Images/dance-hacker-dance.gif" width="200 " height="300" /></a>
 
 ## 👨‍💻 About Me
 <li>💻 Passionate about cybersecurity and countering digital threats </li>
