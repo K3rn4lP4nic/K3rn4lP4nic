@@ -25,8 +25,6 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 <img align="left" alt="Qualys" width="26px" src="https://simpleicons.org/icons/qualys.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" style="padding-right:10px;" />
-<img align="left" alt="HTB" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" style="padding-right:10px;" />
-<img align="left" alt="THM" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" style="padding-right:10px;" />
 <img align="left" alt="Vultr" width="26px" src="https://simpleicons.org/icons/vultr.svg" style="padding-right:10px;" />
 <img align="left" alt="Digital Ocean" width="26px" src="https://simpleicons.org/icons/digitalocean.svg" style="padding-right:10px;" />
 <img align="left" alt="Burp Suite" width="26px" src="https://visualpharm.com/assets/384/Burp%20Suite-595b40b75ba036ed117d5720.svg" style="padding-right:10px;" />
