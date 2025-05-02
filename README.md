@@ -19,11 +19,9 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="Kali" width="26px" src="https://simpleicons.org/icons/kalilinux.svg" style="padding-right:10px;" />
 <img align="left" alt="Qualys" width="26px" src="https://simpleicons.org/icons/qualys.svg" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" style="padding-right:10px;" />
 <img align="left" alt="Vultr" width="26px" src="https://simpleicons.org/icons/vultr.svg" style="padding-right:10px;" />
 <img align="left" alt="Digital Ocean" width="26px" src="https://simpleicons.org/icons/digitalocean.svg" style="padding-right:10px;" />
