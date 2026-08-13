@@ -1,4 +1,4 @@
-# Howdy Stranger, I'm Srikar - You can call me Sai 👋
+# Howdy Stranger 👋
 
 I'm a cyber security student by day and a digital defender by night!  
 At this moment, I am employed as a cybersecurity analyst.  
@@ -8,12 +8,13 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 <a href="#"><img align="right" src="https://github.com/K3rn4lP4nic/K3rn4lP4nic/blob/main/Images/dance-hacker-dance.gif" width="200 " height="200" /></a>
 
 ## 👨‍💻 About Me
-<li>💻 Passionate about cybersecurity and countering digital threats </li>
-<li>🌐 Have a strong interest in web application penetration testing</li>
-<li>📚 Eager to continually expand my knowledge in the field of cybersecurity</li>
-<li>🔒 Committed to mastering new techniques and tools in cybersecurity</li>
-<li>🤖 Enjoy participating in Capture The Flag (CTF) competitions &zwnj;and attending security conferences</li>
-<li>🎮 A huge fan of video games would like to participate in competitions</li>
+<li>💻 Passionate about cybersecurity, threat intelligence, and proactive digital defense</li>
+<li>🌐 Specialized in web application penetration testing and security assessments</li>
+<li>📜 Certified INE Web Application Penetration Tester (eWPTv2) & HTB Certified Web Exploitation Specialist (HTB CWES)</li>
+<li>📚 Dedicated to continually expanding my knowledge and staying ahead of evolving cyber threats</li>
+<li>🔒 Committed to mastering advanced security tools, methodologies, and frameworks</li>
+<li>🤖 Active CTF participant and security conference enthusiast</li>
+<li>🎮 Passionate gamer interested in competitive gaming and esports</li>
 
 ## 💻 Languages, tools and platforms:
 
@@ -25,7 +26,9 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 <img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" style="padding-right:10px;" />
 <img align="left" alt="Vultr" width="26px" src="https://simpleicons.org/icons/vultr.svg" style="padding-right:10px;" />
 <img align="left" alt="Digital Ocean" width="26px" src="https://simpleicons.org/icons/digitalocean.svg" style="padding-right:10px;" />
-<img align="left" alt="Burp Suite" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" style="padding-right:10px;" />
+<img align="left" alt="Burp Suite" width="26px" src="https://simpleicons.org/icons/burpsuite.svg" style="padding-right:10px;" />
+<img align="left" alt="Hack The Box" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" style="padding-right:10px;" />
+<img align="left" alt="Try Hack Me" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" style="padding-right:10px;" />
 <img align="left" alt="postman" width="26px" src="https://simpleicons.org/icons/postman.svg" style="padding-right:10px;" />
 <img align="left" alt="OWASP" width="26px" src="https://simpleicons.org/icons/owasp.svg" style="padding-right:10px;" />
 
@@ -36,7 +39,7 @@ Playing Counter-Strike whenever I feel bored because I love playing it.
 
 <details>
   <summary><h2>Respect++ </h2></summary>
-  Cybersecurity is like a rollercoaster ride – every day is a new adventure! 😎 I seriously can't get enough of this stuff. It's like a puzzle that keeps changing, and I love solving it. In this digital age, I'm just so stoked to be doing what I do. Learning new things, finding those vulnerabilities, and safeguarding our digital environment – it's like being a digital superhero. 💻🦸‍♂️ And let's be honest, the adrenaline rush when you thwart a cyberattack? That feeling is priceless! 👊💥💪 So yeah, cybersecurity rocks my world! 🌐🔒💙
+  Driven by a passion for continuous learning and problem-solving, I view cybersecurity as a dynamic and ever-evolving field. Finding vulnerabilities, safeguarding digital infrastructure, and actively defending environments against cyber threats provides a constant motivation to sharpen my skills and protect critical systems.
   <br>
      <p align="center"><br>
     <img width="500" height="300" src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif" alt="Material Bread logo">
